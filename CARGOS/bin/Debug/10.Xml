@@ -1,0 +1,16 @@
+<Clientes>
+  <cliente>
+    <id_cliente>10</id_cliente>
+    <Nom_Ape_Cli>Genrente General </Nom_Ape_Cli>
+    <cuidad>CALI</cuidad>
+    <Tip_Cuent>GERENCIAL</Tip_Cuent>
+    <Num_Cuent>1</Num_Cuent>
+    <saldo>13980</saldo>
+    <inf_carg>Cargo Directivo de alto impacto 
+
+Desarrollo y Ejecución de Estrategias
+Gestión de Recursos Humanos
+Finanzas y Presupuesto
+Relaciones Públicas y Comunicación</inf_carg>
+  </cliente>
+</Clientes>

@@ -1,0 +1,10 @@
+<Clientes>
+  <cliente>
+    <id_cliente>80794245</id_cliente>
+    <Nom_Ape_Cli>guillermo </Nom_Ape_Cli>
+    <cuidad>BOGOTA</cuidad>
+    <Tip_Cuent>AHORROS</Tip_Cuent>
+    <Num_Cuent>11111</Num_Cuent>
+    <saldo>0</saldo>
+  </cliente>
+</Clientes>

@@ -1,0 +1,10 @@
+<Clientes>
+  <cliente>
+    <id_cliente>33367976</id_cliente>
+    <Nom_Ape_Cli>chechi</Nom_Ape_Cli>
+    <cuidad>MEDELLIN</cuidad>
+    <Tip_Cuent>CORRIENTE</Tip_Cuent>
+    <Num_Cuent>111111</Num_Cuent>
+    <saldo>99990000</saldo>
+  </cliente>
+</Clientes>

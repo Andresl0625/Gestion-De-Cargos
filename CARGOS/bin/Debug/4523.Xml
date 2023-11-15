@@ -1,0 +1,16 @@
+<Clientes>
+  <cliente>
+    <id_cliente>4523</id_cliente>
+    <Nom_Ape_Cli>Analista de Nomina</Nom_Ape_Cli>
+    <cuidad>BOGOTA</cuidad>
+    <Tip_Cuent>ADMINISTRATIVO</Tip_Cuent>
+    <Num_Cuent>2</Num_Cuent>
+    <saldo>0</saldo>
+    <inf_carg>Procesamiento de Nómina
+En el siguiente link se da el proceso de gestion completo de nomina para su cargo; 
+LINK 
+Elaboración de Informes: 
+La gestion de informnes y periodicidad se indicaen en el siguiente vinculo paso a paso
+Link </inf_carg>
+  </cliente>
+</Clientes>

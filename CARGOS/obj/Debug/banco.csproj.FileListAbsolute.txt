@@ -1,0 +1,40 @@
+C:\Users\Viviana\source\repos\banco\bin\Debug\banco.exe.config
+C:\Users\Viviana\source\repos\banco\bin\Debug\banco.exe
+C:\Users\Viviana\source\repos\banco\bin\Debug\banco.pdb
+C:\Users\Viviana\source\repos\banco\obj\Debug\banco.csprojAssemblyReference.cache
+C:\Users\Viviana\source\repos\banco\obj\Debug\banco.Properties.Resources.resources
+C:\Users\Viviana\source\repos\banco\obj\Debug\banco.csproj.GenerateResource.cache
+C:\Users\Viviana\source\repos\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\Viviana\source\repos\banco\obj\Debug\banco.exe
+C:\Users\Viviana\source\repos\banco\obj\Debug\banco.pdb
+C:\Users\Viviana\source\repos\banco\obj\Debug\banco.Cuentas.resources
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\bin\Debug\banco.exe.config
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\bin\Debug\banco.exe
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\bin\Debug\banco.pdb
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\obj\Debug\banco.csproj.AssemblyReference.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\obj\Debug\banco.Cuentas.resources
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\obj\Debug\banco.Properties.Resources.resources
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\obj\Debug\banco.csproj.GenerateResource.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\obj\Debug\banco.exe
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\16-01-2021\PROGRAMACION\Unidad 1 Etapa 2\proyectos\banco\obj\Debug\banco.pdb
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\bin\Debug\banco.exe.config
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\bin\Debug\banco.exe
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\bin\Debug\banco.pdb
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\obj\Debug\banco.csproj.AssemblyReference.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\obj\Debug\banco.Cuentas.resources
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\obj\Debug\banco.Properties.Resources.resources
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\obj\Debug\banco.csproj.GenerateResource.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\obj\Debug\banco.exe
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\banco\obj\Debug\banco.pdb
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\bin\Debug\banco.exe.config
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\bin\Debug\banco.exe
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\bin\Debug\banco.pdb
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\obj\Debug\banco.csproj.AssemblyReference.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\obj\Debug\banco.Cuentas.resources
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\obj\Debug\banco.Properties.Resources.resources
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\obj\Debug\banco.csproj.GenerateResource.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\obj\Debug\banco.exe
+C:\Users\AndresL\Desktop\andres Univesidad\OneDrive - Universidad Nacional Abierta y a Distancia\2023-16-04\PROYECTO DE GRADO\Fase 4\CARGOS\obj\Debug\banco.pdb
